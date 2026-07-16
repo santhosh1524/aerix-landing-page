@@ -1,0 +1,6 @@
+{
+  "name": "AERIX ONE",
+  "description": "Cinematic product launch landing page for the AERIX ONE AI autonomous drone, featuring interactive 3D scroll effects, exploded views, and immersive animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
