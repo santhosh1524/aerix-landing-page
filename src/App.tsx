@@ -501,7 +501,7 @@ Answer user questions regarding flight paths, specifications, configurations, or
             className="w-full max-w-[400px] aspect-square relative z-20 cursor-grab active:cursor-grabbing select-none"
           >
             <img 
-              src="/aerix_drone.png" 
+              src="./aerix_drone.png" 
               alt="AERIX ONE Autonomous Drone Core"
               className="w-full h-full object-contain filter drop-shadow-[0_15px_50px_rgba(6,182,212,0.35)]"
               draggable="false"
@@ -762,7 +762,7 @@ Answer user questions regarding flight paths, specifications, configurations, or
                 {/* Base drone display underlay */}
                 <div className="w-full h-full relative">
                   <img
-                    src="/aerix_drone.png"
+                    src="./aerix_drone.png"
                     alt="AERIX Exploded view base"
                     className="w-full h-full object-contain opacity-55 filter grayscale contrast-125"
                   />
